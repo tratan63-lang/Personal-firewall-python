@@ -1,4 +1,4 @@
-#bornwinner Personal-firewall-python
+ Personal-firewall-python
 A simple personal firewall built using python
 # Personal Firewall Using Python  
 
